@@ -1,0 +1,11 @@
+{
+  "base_dir": "C:\\\\Users\\\\bastianl\\\\Desktop\\\\ISOMETRICOS\\\\Main Documents",
+  "action": "move",
+  "dry_run": true,
+  "recursive": false,
+  "allowed_extensions": [
+    ".pdf"
+  ],
+  "area_regex": "\\\\s-\\\\s(\\\\d{3})(?=-)",
+  "no_match_dest": "_NO_CLASIFICADO"
+}
